@@ -50,6 +50,10 @@ printf("%i is below freezing.\n",b);
 
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6d02591f3061caf8abdffd7325ed1ef23e69123b
 }
 
 gcc question7.c
