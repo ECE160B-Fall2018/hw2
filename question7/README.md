@@ -38,3 +38,6 @@ printf("%i is below freezing.\n",b);
 
 }
 
+gcc question7.c
+output: 40 is above freezing.
+        30 is below freezing.
