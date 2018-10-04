@@ -1,3 +1,4 @@
+
 Output:
  
 #include <stdio.h>
@@ -71,7 +72,4 @@ What is 9 + 10?
 ~                                                                                                                                                                                                         
 ~                                                                                                                                                                                                         
 ~                                                                                                                                                                                                         
-~                                                                                                                                                                                                         
- 
-
-
+~                                                                                                                                                                                                        
