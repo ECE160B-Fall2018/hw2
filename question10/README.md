@@ -20,19 +20,36 @@ if (c=='a' || c=='A')
 
 printf("Wrong.");
 
+<<<<<<< HEAD
 } else if (c=='b' || c=='B')
+=======
+}
+else if (c=='b' || c=='B')
+>>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
 
 {
 
 printf("Correct.");
 
+<<<<<<< HEAD
 } else if (c=='c' || c=='C')
+=======
+}
+else if (c=='c' || c=='C')
+>>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
 
 {
 
 printf("Wrong.");
 
+<<<<<<< HEAD
 } else if (c=='d' || c=='D')
+=======
+
+}
+else if (c=='d' || c=='D')
+
+>>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
 
 {
 
@@ -40,11 +57,17 @@ printf("Wrong.");
 
 }
 
+<<<<<<< HEAD
 else {
+=======
+else
+{
+>>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
 
 printf("Invalid input.");
 
 }
+<<<<<<< HEAD
  return 0;
  } 
 gcc question10.c
@@ -56,3 +79,21 @@ c. 21
 d. 22
 19
 Correct.
+=======
+return 0;
+}
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+~                                                                                                                                                                                                         
+
+>>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
