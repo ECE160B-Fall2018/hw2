@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Question 10
 
 Write a multiple choice question of your choice that accepts a letter as an input using getchar. Determine if the answer given is correct or incorrect and please print out "Correct" or "Wrong" depending on the answer given.
@@ -95,5 +96,7 @@ return 0;
 ~                                                                                                                                                                                                         
 ~                                                                                                                                                                                                         
 ~                                                                                                                                                                                                         
+=======
+>>>>>>> 5e14d36f1195e84ab24869e338871abbac6a92ad
 
 >>>>>>> f25cfae38f5a565601d577cfec85d3cf1fa557cd
